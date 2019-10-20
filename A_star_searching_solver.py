@@ -1,3 +1,6 @@
+import random
+import copy
+
 class LinearDiskMovement(object):
     def __init__(self, length, n, disk):
         self.length = length
